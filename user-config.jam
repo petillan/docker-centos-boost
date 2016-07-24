@@ -1,0 +1,5 @@
+#  MSVC configuration
+using gcc : 4.8 ;
+
+#  Python configuration
+using python : 2.7 ;

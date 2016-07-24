@@ -1,0 +1,6 @@
+*.tar
+*.tar.gz
+*.zip
+
+bin/
+boost*
